@@ -5,7 +5,15 @@ import operating system and comma separated value file as libraries
 
 declare variables
 
-opens csv as file and calculates how many 
+opens csv as file and loops to calculate total months, net profit, previous profit, profit changes and months
+
+calculates change in profit from month to month
+
+calculates average change to profit, greatest increase, greatest decrease
+
+prints results
+
+repeats results on a separate text file
 
 PyPoll:
 import csv as library
