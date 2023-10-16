@@ -1,7 +1,7 @@
 import os
 import csv
 
-csv_file = os.path.join('Resources', 'budget_data.csv')
+csv_file = os.path.join('budget_data.csv')
 
 total_months = 0
 net_total = 0
